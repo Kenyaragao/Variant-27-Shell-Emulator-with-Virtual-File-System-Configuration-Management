@@ -66,3 +66,4 @@ def get_help_text():
         "help    - Show available commands\n"
         "exit    - Exit the shell"
     )
+# Stage 5: Added shell commands and logging
