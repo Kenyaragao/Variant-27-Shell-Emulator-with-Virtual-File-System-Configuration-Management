@@ -1,0 +1,9 @@
+{
+  "root": {
+    "home": {
+      "file1.txt": "Hello World",
+      "notes.txt": "Sample text"
+    },
+    "etc": {}
+  }
+}

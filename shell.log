@@ -1,0 +1,5 @@
+[YYYY-MM-DD HH:MM:SS] Shell started with config: {...}
+[YYYY-MM-DD HH:MM:SS] Executed command: ls
+[YYYY-MM-DD HH:MM:SS] Shell exited successfully
+[2025-11-08 20:01:10] Shell started with config: {'vfs_name': 'DefaultVFS', 'vfs_path': 'vfs.json'}
+[2025-11-08 20:13:25] Shell started with config: {'vfs_name': 'MyVFS', 'vfs_path': 'vfs.json'}
